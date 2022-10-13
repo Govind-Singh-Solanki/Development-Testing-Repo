@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* nav div div ul li>a
+{
+    color: var(--bs-blue);
+} */
+
+.nav-link{
+    color: red ;
+}
+
+#k{
+    color: blueviolet ;
+}
+
+#l{
+    color: goldenrod ;
+
+}
+
+.mainBG{
+    background-color: aquamarine ;
+}
